@@ -473,3 +473,8 @@ for x,y,z in zip(list_quiz, dict_quiz , tuple_quiz):  # using for loop
      print(x,y,z)  # If the lists are uneven, zip() stops at the shortest one
 
 #zip function--------
+
+def test():
+    print('test')
+    # will be implemented later
+
